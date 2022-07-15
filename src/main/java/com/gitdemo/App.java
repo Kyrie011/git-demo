@@ -11,6 +11,10 @@ public class App
 	}
     public static void main( String[] args )
     {
+    	App obj = new App();
+    	
+    	obj.addData("Kaizoku orewa naaru");
+    	
         System.out.println( "Hello World!" );
     }
 }
