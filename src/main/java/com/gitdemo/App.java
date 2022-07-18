@@ -8,6 +8,10 @@ public class App
 			System.out.println("Luffy's Grand Fleet");
 		}
 	}
+	public void newMethod(){
+		System.out.println("New Method");
+	}
+		
     public static void main( String[] args )
     {
 //    	App obj = new App();
